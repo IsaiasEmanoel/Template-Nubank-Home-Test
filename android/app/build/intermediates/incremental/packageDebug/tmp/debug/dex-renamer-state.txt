@@ -1,0 +1,4 @@
+#Mon May 13 12:01:57 BRT 2019
+base.0=/Users/isaias/Documents/Isaias/RocketSeat/NuBank/NubankProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
